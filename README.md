@@ -20,3 +20,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ![alt text](![todo app en](https://user-images.githubusercontent.com/91878561/190125587-bcadf196-286b-45e3-acd9-755417a98207.jpg)
 ) 
+
+![alt text](![todo app en search page](https://user-images.githubusercontent.com/91878561/190126963-f65e2a53-cc45-48b6-8bf9-40965b89e91f.jpg)
+)
+
+![alt text](![todo app add task ](https://user-images.githubusercontent.com/91878561/190127138-54bddd95-083e-4206-88d5-fbd1d716ed0a.jpg)
+)

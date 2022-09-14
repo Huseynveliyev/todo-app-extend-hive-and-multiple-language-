@@ -15,6 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![alt text](todo app az.jpg)
+![alt text](![todo app az](https://user-images.githubusercontent.com/91878561/190125225-f388e58b-95f3-45a2-b83c-43fbdb480cb2.jpg)
+)
 
-![alt text](todo app en.jpg)
+![alt text](![todo app en](https://user-images.githubusercontent.com/91878561/190125587-bcadf196-286b-45e3-acd9-755417a98207.jpg)
+) 
